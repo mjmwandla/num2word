@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.backends._legacy:_Backend"
+
+[project]
+name = "num2word"
+version = "1.0.0"
+description = "Convert numbers extracted from text into English words"
+requires-python = ">=3.6"
+
+[project.scripts]
+num2word = "num2word.main:main"
