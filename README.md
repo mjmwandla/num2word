@@ -1,5 +1,7 @@
 # Number to Words Converter
 
+[![tests](https://github.com/mjmwandla/num2word/actions/workflows/tests.yml/badge.svg)](https://github.com/mjmwandla/num2word/actions/workflows/tests.yml)
+
 Extracts a number from a line of text and converts it to English words.
 
 ## How to Run
